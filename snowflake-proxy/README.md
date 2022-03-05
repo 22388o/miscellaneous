@@ -1,4 +1,4 @@
-# Build a TOR Project SNOWFLAKE Proxy from the source
+# Build a TOR Project SNOWFLAKE Proxy from source
 
 ## Build the image yourself from the git repository
 
