@@ -1,5 +1,7 @@
 # Build a TOR Project SNOWFLAKE Proxy from source
 
+![TOR SNOWFLAKE](https://snowflake.torproject.org/snowflake-schematic.png)
+
 ## Create dedicated user for SNOWFLAKE
 
 ```sh
