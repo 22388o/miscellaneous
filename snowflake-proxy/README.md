@@ -1,4 +1,4 @@
-# Build a TOR Project SNOWFLAKE Proxy for Raspberry Pi 
+# Build a TOR Project SNOWFLAKE Proxy from the source
 
 ## Build the image yourself from the git repository
 
