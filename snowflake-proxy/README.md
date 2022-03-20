@@ -2,10 +2,11 @@
 
 ![TOR SNOWFLAKE](https://snowflake.torproject.org/snowflake-schematic.png)
 
-## Create dedicated user for SNOWFLAKE
+## Create dedicated user for SNOWFLAKE and add it to the docker group
 
 ```sh
 $ sudo adduser --disabled-password --gecos "" snowflake-proxy
+$ sudo usermod -aG docker snowflake-proxy
 ```
 
 ## Build the image yourself from the git repository using the newly created user
